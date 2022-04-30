@@ -16,6 +16,16 @@
             <artifactId>common-model</artifactId>
             <version>CURRENT</version>
         </dependency>
+        <dependency>
+            <groupId>sample</groupId>
+            <artifactId>implementation-first</artifactId>
+            <version>CURRENT</version>
+        </dependency>
+        <dependency>
+            <groupId>sample</groupId>
+            <artifactId>implementation-second</artifactId>
+            <version>CURRENT</version>
+        </dependency>
     </dependencies>
 
     <build>

@@ -1,2 +1,1 @@
-# spring-interfaces-and-implementations
-Spring sample project where inject jar with beans
+How to start application with different beans and profiles
